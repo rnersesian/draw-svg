@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Watermeloune/drawSVG.git"
+    "url": "https://github.com/Watermeloune/draw-svg.git"
   },
   "keywords": [
     "draw",
@@ -17,7 +17,7 @@
   "author": "NERSESIAN Robert",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Watermeloune/drawSVG/issues"
+    "url": "https://github.com/Watermeloune/draw-svg/issues"
   },
   "homepage": "https://github.com/Watermeloune/drawSVG#readme",
   "dependencies": {
