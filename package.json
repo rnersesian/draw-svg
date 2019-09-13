@@ -1,0 +1,29 @@
+{
+  "name": "@watermeloune/draw-svg",
+  "version": "1.0.0",
+  "description": "For creating and editing SVGs in your browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Watermeloune/drawSVG.git"
+  },
+  "keywords": [
+    "draw",
+    "svg"
+  ],
+  "author": "NERSESIAN Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Watermeloune/drawSVG/issues"
+  },
+  "homepage": "https://github.com/Watermeloune/drawSVG#readme",
+  "dependencies": {
+    "@types/react": "^16.9.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "typescript": "^3.6.3"
+  }
+}
